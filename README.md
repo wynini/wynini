@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @wynini
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : via discord @wynini
+Hi, I’m @wynini
+I’m currently learning python.
+📫 How to reach me : via discord @wynini
 
 <!---
 wynini/wynini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
